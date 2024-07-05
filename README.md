@@ -66,14 +66,7 @@ update1
 - [x] Get comfortable with basics of [Docker](https://docs.docker.com/guides/docker-overview/) 
 
 BEST YOUTUBE TUTORIAL TO LEARN DOCKER BASICS: https://youtu.be/zCsbp_iBTq8?si=qBewy3ppdxQjS920
-
 CHEATSHEET: https://dockerlabs.collabnix.com/docker/cheatsheet/
-
-
-- [x] Learn fundamentals of Git and VCS
-- [ ] Getting Python fundamentals right.
-- [x] Get comfortable with basics of [Docker](https://docs.docker.com/guides/docker-overview/)
- main
 - [ ] Machine Learning Fundamentals
 
 Additional
