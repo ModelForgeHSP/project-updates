@@ -81,7 +81,7 @@ Additional
 - [x] Learn fundamentals of Git and VCS
 - [x] Getting Python fundamentals right.
 - [x] Get comfortable with basics of [Docker](https://docs.docker.com/guides/docker-overview/)
-- [ ]Machine Learning Fundamentals
+- [ ] Machine Learning Fundamentals
 
 Additional
 
