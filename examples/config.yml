@@ -1,0 +1,27 @@
+# Example Config file for ModelForge for trained for  sentiment analysis
+input_features:
+  -
+    name: text
+    type: text
+    encoder: # you would have a list of encoders that you support
+    level: # level of tokenization that modelforge must do(word,line,letter etc)
+    dropout: true # learn about regularization if you don't understand this
+    convolutional_layers: 
+      - { filter_size: 3, num_filters: 256 }
+      - { filter_size: 4, num_filters: 256 }
+      - { filter_size: 5, num_filters: 256 }
+
+output_features:
+  -
+    name: sentiment
+    type: category
+    num_classes: 3
+
+training:
+  batch_size: 32
+  epochs: 10
+  learning_rate: 0.001
+
+preprocessing:
+  text:
+    # This can be structured however you want your datasets to look like.
